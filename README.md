@@ -8,7 +8,7 @@
 -->
 
 # BTP Experience 2025
-# teste
+# Hands-on: Develop applications and processes with SAP Build and Joule
 
 </header>
 
@@ -32,6 +32,6 @@ Senha: Ob4oUO020b1!
 
 Link do arquivo no git
 
-### Ajuste na lógica Purchases:
+### Arquivo extra:
 
 Link do arquivo no git
