@@ -28,10 +28,6 @@ Login: AC153064U01 - AC153064U40
 
 Senha: Ob4oUO020b1!
 
-### Arquivo com textos do exercício:
+### [Arquivo com textos do exercício](https://github.com/LucasMarques-Intelligenza/BTPEXP2025/blob/main/Textos%20do%20exerc%C3%ADcio.pdf)
 
-Link do arquivo no git
-
-### Arquivo extra:
-
-Link do arquivo no git
+### [Arquivo extra](https://github.com/LucasMarques-Intelligenza/BTPEXP2025/blob/main/purchases-logic.js)
